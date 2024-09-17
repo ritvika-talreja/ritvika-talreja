@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I talk to machines more than people (and sometimes they even listen)!"**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritvika-talreja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritvika-talreja/" height="30" width="40" /></a>
 <a href="https://fb.com/ritvika talreja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritvika talreja" height="30" width="40" /></a>
