@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on **Deep Learning Project<br>🌱 I’m currently learning Deep Learning<br>👯 I’m looking to collaborate on Machine Learning Project<br>⚡ Fun fact I talk to machines more than people (and sometimes they even listen)!"
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/ritvika-talreja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritvika-talreja/" height="30" width="40" /></a>
 <a href="https://fb.com/ritvika talreja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritvika talreja" height="30" width="40" /></a>
