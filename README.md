@@ -20,5 +20,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritvika-talreja" alt="ritvika-talreja" /></a> </p>
 
-<h3 align="left">✍️ Random Dev Quote</h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ Random Dev Quote
+<p align="left"> <a href=![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)></a></p>
