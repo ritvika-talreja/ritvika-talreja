@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h3 align="left">💫 About Me:</h3>
 🔭 I’m currently working on **Deep Learning Project<br>🌱 I’m currently learning Deep Learning<br>👯 I’m looking to collaborate on Machine Learning Project<br>⚡ Fun fact I talk to machines more than people (and sometimes they even listen)!"
 
 <h3 align="left">🌐 Socials:</h3>
