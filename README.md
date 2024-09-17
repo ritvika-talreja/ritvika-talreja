@@ -1,12 +1,5 @@
 # 💫 About Me:
-
-- 🔭 I’m currently working on **Deep Learning Project**
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on **Machine Learning Project**
-
-- ⚡ Fun fact **I talk to machines more than people (and sometimes they even listen)!"**
+🔭 I’m currently working on **Deep Learning Project<br>🌱 I’m currently learning Deep Learning<br>👯 I’m looking to collaborate on Machine Learning Project<br>⚡ Fun fact I talk to machines more than people (and sometimes they even listen)!"
 
 ## 🌐 Socials:
 <p align="left">
@@ -27,5 +20,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritvika-talreja" alt="ritvika-talreja" /></a> </p>
 
-### ✍️Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
