@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritvika Talreja</h1>
+# 💫 About Me:
 
 - 🔭 I’m currently working on **Deep Learning Project**
 
