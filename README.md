@@ -4,8 +4,8 @@
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: ritvika-talreja](https://img.shields.io/badge/-ritvika-talreja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/)](https://www.linkedin.com/in/ritvika-talreja/)
-[![GitHub ritvika-talreja](https://img.shields.io/github/followers/ritvika-talreja?label=follow&style=social)](https://github.com/ritvika-talreja/)
+[![Linkedin: ritvikatalreja](https://img.shields.io/badge/-ritvikatalreja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/)](https://www.linkedin.com/in/ritvika-talreja/)
+[![GitHub ritvikatalreja](https://img.shields.io/github/followers/ritvikatalreja?label=follow&style=social)](https://github.com/ritvika-talreja/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
