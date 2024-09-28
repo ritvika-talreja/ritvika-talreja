@@ -13,7 +13,8 @@ ritvika = {
     "tools": ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"],
     "cloud": ["AWS", "Docker", "Kubernetes"],
     "pythonLibraries": ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "Seaborn",
-                        "Keras", "PyTorch", "Tensorflow", "NLTK", "Gensim", "TextBlob"],
+                        "Keras", "PyTorch", "Tensorflow", "NLTK", "Gensim",
+                        "TextBlob"],
     },
     "challenge": "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
