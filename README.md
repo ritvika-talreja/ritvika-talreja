@@ -12,12 +12,7 @@ ritvika = {
     "code": ["HTML", "CSS", "Javascript", "C", "Java", "Python"],
     "tools": ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"],
     "cloud": ["AWS", "Docker", "Kubernetes"],
-    "pythonLibraries": ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "Seaborn"],
-    "architecture": ["microservices", "event-driven", "design system pattern"],
-    "techCommunities": {
-        "coorganizer": "AfroPython",
-        "speaker": "Latinity",
-        "mentor": "EducaTRANSforma"
+    "pythonLibraries": ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "Seaborn", "Keras", "PyTorch", "Tensorflow", "NLTK", "Gensim", "TextBlob"],
     },
     "challenge": "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
