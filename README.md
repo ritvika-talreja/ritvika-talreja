@@ -16,7 +16,7 @@ ritvika = {
                         "Keras", "PyTorch", "Tensorflow", "NLTK", "Gensim",
                         "TextBlob"],
     },
-    "challenge": "I am doing the #100DaysOfCode challenge focused on react and typescript"
+    "challenge": "I am doing the #100DaysOfCode challenge focused on deep learning."
 }
 
 ```
