@@ -10,7 +10,6 @@
 ritvika = {
     "pronouns": ["she", "her"],
     "code": ["HTML", "CSS", "Javascript", "C", "Java", "Python"],
-    "tools": ["React", "Node", "Styled-Components", "Jest", "Docker"],
     "cloud": ["AWS", "Docker", "Kubernetes"],
     "pythonLibraries": ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "Seaborn",
                         "Keras", "PyTorch", "Tensorflow", "NLTK", "Gensim",
