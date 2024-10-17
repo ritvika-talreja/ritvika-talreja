@@ -13,9 +13,9 @@ ritvika = {
     "cloud": ["AWS", "Docker", "Kubernetes"],
     "pythonLibraries": ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "Seaborn",
                         "Keras", "PyTorch", "Tensorflow", "NLTK", "Gensim",
-                        "TextBlob"],
+                        "TextBlob",],
     },
-    "challenge": "I am doing the #100DaysOfCode challenge focused on deep learning."
+    "challenge": "I am doing the #100DaysOfCode challenge focused on large language models"
 }
 
 ```
