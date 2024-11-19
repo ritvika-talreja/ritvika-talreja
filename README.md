@@ -4,7 +4,7 @@
 </em></p>
 
 
-### A little more about me..  
+### A little more about me...  
 
 ```python
 ritvika = {
