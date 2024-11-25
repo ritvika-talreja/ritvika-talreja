@@ -8,7 +8,7 @@
 
 ```python
 ritvika = {
-    "pronouns": ["she", "her"],
+    "pronouns": ["she","her"],
     "code": ["HTML", "CSS", "Javascript", "C", "Java", "Python"],
     "cloud": ["AWS"],
     "pythonLibraries": ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "Seaborn",
