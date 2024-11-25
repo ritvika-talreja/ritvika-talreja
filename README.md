@@ -13,7 +13,7 @@ ritvika = {
     "cloud": ["AWS"],
     "pythonLibraries": ["Pandas","NumPy","Matplotlib","Scikit-learn","Seaborn",
                         "Keras","PyTorch","Tensorflow","NLTK","Gensim","LangChain",
-                        "TextBlob",],
+                        "TextBlob"],
     },
     "challenge": "I am doing the #100DaysOfCode challenge focused on Python"
 }
