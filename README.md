@@ -2,8 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="250">
 <p><em>Graduated with an MCA from <a href="https://christuniversity.in">Christ University.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Passionate about AI, Machine Learning, Deep Neural Networks, and Cloud Computing.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
 [![Linkedin: ritvikatalreja](https://img.shields.io/badge/-ritvikatalreja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritvika-talreja/)](https://www.linkedin.com/in/ritvikatalreja/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ritvika-talreja/)
+[![GitHub ritvikatalreja](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ritvika-talreja/)
 
 
 ### A little more about me...  
