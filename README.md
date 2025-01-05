@@ -27,8 +27,10 @@ ritvika = {
 <details>
   <summary><b>Github Highlights</b></summary>
 
-![stats](https://github-readme-stats.vercel.app/api?username=ritvika-talreja&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![](https://github-readme-stats.vercel.app/api?username=ritvika-talreja&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ritvika-talreja&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritvika-talreja&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=ritvika-talreja&bg_color=0000000&color=70a5fc&line=5abdad&point=70a5fc&area_color=5abdad&area=true&hide_border=true)
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=ritvika-talreja&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 
 </details>
