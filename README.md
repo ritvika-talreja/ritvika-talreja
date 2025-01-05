@@ -30,6 +30,8 @@ ritvika = {
 ![](https://github-readme-stats.vercel.app/api?username=ritvika-talreja&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ritvika-talreja&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritvika-talreja&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=ritvika-talreja&bg_color=0000000&color=70a5fc&line=5abdad&point=70a5fc&area_color=5abdad&area=true&hide_border=true)
 
 
