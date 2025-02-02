@@ -3,7 +3,8 @@
 <p><em>Graduated with an MCA from <a href="https://christuniversity.in">Christ University.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Passionate about AI, Machine Learning and Deep Neural Networks.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: ritvikatalreja](https://img.shields.io/badge/-ritvikatalreja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritvika-talreja/)](https://www.linkedin.com/in/ritvikatalreja/)
+[![Gmail Badge](https://img.shields.io/badge/-ritvikatalreja24@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ritvikatalreja24@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-ritvikatalreja-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ritvika-talreja/ "Connect on LinkedIn")
 [![GitHub ritvikatalreja](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ritvika-talreja/)
 
 
