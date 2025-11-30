@@ -13,14 +13,16 @@
 ```python
 ritvika = {
     "pronouns": ["she","her"],
-    "code": ["HTML","CSS","Javascript","C","Java","Python"],
+    "code": ["C","Java","Python"],
+    "ai": ["Natural Language Processing","Large Language Models","Retrieval-Augmented Generation","Langchain","Langraph"],
+    "ml": ["Exploratory Data Analysis","Feature Engineering","Supervised Learning","Unsupervised Learning","Reinforcement Learning"],
+    "frameworks & APIs": ["FastAPI","Flask","RESTful APIs","LangChain","LangGraph","TensorFlow","PyTorch","Dash"]
     "cloud": ["AWS"],
     "pythonLibraries": ["Pandas","NumPy","Matplotlib","Scikit-learn","Seaborn",
-                        "Keras","PyTorch","Tensorflow","NLTK","Gensim","LangChain",
+                        "Keras","Tensorflow","NLTK"
                         "TextBlob"],
     },
     "challenge": "I am doing the #100DaysOfCode challenge focused on Python"
-}
 
 ```
 
