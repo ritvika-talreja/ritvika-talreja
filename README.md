@@ -1,6 +1,7 @@
 <h2> Hi, I'm Ritvika! </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="250">
-<p><em>Graduated with an MCA from <a href="https://christuniversity.in">Christ University.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Passionate about AI, Machine Learning and Deep Neural Networks.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Graduated with an MCA from <a href="https://christuniversity.in">Christ University.</a> 🎓 
+</br>Passionate about AI, Machine Learning and Deep Neural Networks.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Gmail Badge](https://img.shields.io/badge/-talrejaritvika30@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:talrejaritvika30@gmail.com "Connect via Email")
