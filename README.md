@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ritvika! </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="250">
 <p><em>Graduated with an MCA from <a href="https://christuniversity.in">Christ University.</a> 🎓 
-</br>Passionate about AI, Machine Learning and Deep Neural Networks.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</br>Passionate about Machine Learning, Deep Neural Networks and Generative AI.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Gmail Badge](https://img.shields.io/badge/-talrejaritvika30@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:talrejaritvika30@gmail.com "Connect via Email")
@@ -14,27 +14,14 @@
 ```python
 ritvika = {
     "pronouns": ["she","her"],
-    "code": ["C","Java","Python"],
-    "ai": ["Natural Language Processing","Large Language Models","Retrieval-Augmented Generation","Langchain","Langraph"],
+    "code": ["Java","Python"],
+    "ai": ["Natural Language Processing", "Transformers", "Large Language Models","Retrieval-Augmented Generation","Langchain","Langraph", "Vector Enbeddings", "Prompt Engineering"],
     "ml": ["Exploratory Data Analysis","Feature Engineering","Supervised Learning","Unsupervised Learning","Reinforcement Learning"],
-    "frameworks & APIs": ["FastAPI","Flask","RESTful APIs","LangChain","LangGraph","TensorFlow","PyTorch","Dash"]
-    "cloud": ["AWS"],
+    "frameworks & APIs": ["FastAPI","Flask","RESTful APIs", "TensorFlow","PyTorch","Dash"]
+    "cloud": ["AWS", "Docker"],
     "pythonLibraries": ["Pandas","NumPy","Matplotlib","Scikit-learn","Seaborn",
                         "Keras","Tensorflow","NLTK"
                         "TextBlob"]
 
 ```
 
-
-<details>
-  <summary><b>Github Highlights</b></summary>
-
-![](https://github-readme-stats.vercel.app/api?username=ritvika-talreja&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ritvika-talreja&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritvika-talreja&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=ritvika-talreja&bg_color=0000000&color=70a5fc&line=5abdad&point=70a5fc&area_color=5abdad&area=true&hide_border=true)
-
-
-</details>
